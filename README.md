@@ -38,11 +38,21 @@ https://asr-web-services-starter-kit.onrender.com/
 
 Reusable service-business website foundation demonstrating responsive layouts, enquiry flows, content structure and maintainable architecture.
 
+## Screenshots
+
+### Homepage
+
+![Homepage](starte-kit-hompage-hero.png)
+
 Operational Systems Demo
 
 https://asr-operational-systems-demo.onrender.com/
 
 Public-safe operational workflow demonstration showing booking workflows, administration concepts, reporting visibility and operational infrastructure.
+
+### Home Desktop
+
+![Home Desktop](operational-demo-hompage-hero-desktop.png)
 
 Technology
 
